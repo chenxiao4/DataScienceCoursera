@@ -6,7 +6,6 @@ Figure 1:
 
 
 ```r
-source("~/Desktop/DataScienceCoursera/Exploratory_Data_Analysis/plot1.R")
 plot.one(FALSE)
 ```
 
@@ -17,7 +16,6 @@ Figure 2:
 
 
 ```r
-source("~/Desktop/DataScienceCoursera/Exploratory_Data_Analysis/plot2.R")
 plot.two(FALSE)
 ```
 
@@ -28,7 +26,6 @@ Figure 3:
 
 
 ```r
-source("~/Desktop/DataScienceCoursera/Exploratory_Data_Analysis/plot3.R")
 plot.three(FALSE)
 ```
 
@@ -39,7 +36,6 @@ Figure 4:
 
 
 ```r
-source("~/Desktop/DataScienceCoursera/Exploratory_Data_Analysis/plot4.R")
 plot.four(FALSE)
 ```
 
