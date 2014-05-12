@@ -5,7 +5,6 @@ Cache Inverse of Matrix
 Create special object:
 
 ```r
-source("~/Desktop/DataScienceCoursera/R_Programming/PA2/cachematrix.R")
 x <- makeCacheMatrix()
 mat <- matrix(1:4, 2, 2)
 mat
